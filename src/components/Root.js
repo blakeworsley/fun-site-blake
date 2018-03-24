@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../styles/root.css';
+import '../styles/root.scss';
 
 class Root extends Component {
   render() {
