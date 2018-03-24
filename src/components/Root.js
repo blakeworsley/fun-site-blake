@@ -3,7 +3,7 @@ import '../styles/root.scss';
 
 class Root extends Component {
   render() {
-    return <div>yo</div>;
+    return <div>yoyoma</div>;
   }
 }
 
